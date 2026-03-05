@@ -22,7 +22,7 @@
 
 **1–3 kỹ năng chính:**  
 (Ví dụ: Backend Framework, Docker, CI/CD, AI tool, …)
-Biết đọc HTML, CSS, UX/UI để kết hợp với một công cụ vibcoding frontend để không bị lỗi, biết mình đang code gì, đọc được code
+Đọc và viết HTML, CSS, (UX/UI) để kết hợp với một/một vài công cụ vibcoding frontend để không bị lỗi, biết mình đang code gì để hiểu và fix nếu a.i code lỗi
 **Bài toán / nội dung áp dụng cụ thể:**  
 (Mô tả ngắn gọn, rõ ràng) 
 Web liệt kê cards và các deck card của boardgame:
